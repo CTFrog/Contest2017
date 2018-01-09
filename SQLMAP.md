@@ -1,4 +1,6 @@
-# sqlmap
+# SQLMAP
+
+SQL injection テストツール
 
 ## 概要資料
 
